@@ -1,1 +1,4 @@
 rate_everything/.env
+rate_everything/main_home/__pycache__
+rate_everything/rate_everything/__pycache__
+rate_everything/rate_rso/__pycache__
